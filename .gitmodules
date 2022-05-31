@@ -1,0 +1,3 @@
+[submodule "SucSpeech"]
+	path = SucSpeech
+	url = https://github.com/rmcpantoja/sucspeech.git
