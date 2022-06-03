@@ -11,7 +11,7 @@ Support for the "Sucspeech" speech synthesizer for NVDA.
 
 To run sucSpeech in NVDA:
 
-* Addon [speechLogger for NVDA] (https://addons.nvda-project.org/addons/speechLogger.en.html).
+* [Addon [speechLogger for NVDA] (https://addons.nvda-project.org/addons/speechLogger.en.html).
 
 * the synthesizer, which is as a submodule in this repository.
   * [AutoIt (latest version)](https://www.autoitscript.com/site/autoit/downloads/)
@@ -45,7 +45,7 @@ Support for the "Sucspeech" speech synthesizer for NVDA.
 
 Para ejecutar sucSpeech en NVDA:
 
-* Complemento [speechLogger para NVDA] (https://addons.nvda-project.org/addons/speechLogger.en.html).
+* [Complemento [speechLogger para NVDA] (https://addons.nvda-project.org/addons/speechLogger.en.html).
 
 * el sintetizador, que está como submódulo en este repositorio.
 	* [AutoIt (última versión)](https://www.autoitscript.com/site/autoit/downloads/)
