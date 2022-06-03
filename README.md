@@ -18,9 +18,8 @@ To run sucSpeech in NVDA:
 
 ## use
 
-1. Run the SucSpeech4NVDA.au3 file
-1.1. cnfigure the synthesizer voice.
-
+1. Run the SucSpeech4NVDA.au3 file.
+1.1. Configure the synthesizer voice.
 2. Activate SpeechLogger in NVDA (NVDA+ALT+L)
 3. If the synthesizer starts talking, open NVDA's synthesizer dialog and select "no speech".
 
