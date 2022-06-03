@@ -33,7 +33,7 @@ To run sucSpeech in NVDA:
 * if possible, set a communication to set the voice, rate, pitch and volume from NVDA to the synthesizer.
 
 # sucSpeech4NVDA
-Support for the "Sucspeech" speech synthesizer for NVDA.
+Soporte del el sintetizador de voz SucSpeech para NVDA
 
 ## Introducción
 
